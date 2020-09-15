@@ -1,5 +1,1 @@
-#
-#
-#
-#
 # johndevadoss.github.io
